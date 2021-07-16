@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0gyala94d6e55e0f --n quickstartFunctions --r --project "D:\桌面\wxmini" --report
